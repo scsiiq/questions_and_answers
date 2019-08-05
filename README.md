@@ -1,3 +1,5 @@
+ссылка на страницу  https://scsiiq.github.io/questions_and_answers/
+
 # Answers
 
 1.  Какие бывают значения `display`? Расскажите как ведёт себя каждое свойство.
